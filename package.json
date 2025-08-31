@@ -134,5 +134,8 @@
   "packageManager": "yarn@4.9.2",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "tiktoken": "^1.0.22"
   }
 }
